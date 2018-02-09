@@ -1,17 +1,16 @@
-
+*{
+    margin: 0px;
+}
 h1{
     color: blue
 }
 p{
     text-indent: 18pt
-
 }
-
 div{
     color: red
 }
 table{
-    Color:Purple
-
-    
+    Color:Purple;
+    border: 2px dashed;
 }
